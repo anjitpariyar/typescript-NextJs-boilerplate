@@ -3,13 +3,13 @@
  */
 export const theme = {
   //Colors
-  primary: "#002B60",
-  primaryFade: "#C2D5ED",
+  primary: "#0083FF",
+  primaryFade: "#EBECFF",
   secondary: "#C2D5ED",
   black: "#000000",
-  grey: "#7F7F7F",
-  grey01: "#454648",
-  lightGrey: "#0000001a",
+  grey: "#434343",
+  grey01: "#EDEFF5",
+  lightGrey: "#F8F8F8",
   white: "#ffffff",
   green: "#54875F",
 };
