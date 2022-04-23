@@ -21,9 +21,7 @@
   }
   ```
 
-  Add your theme color here `styled\Theme.ts`
-
--
+- Add your theme color here `styled\Theme.ts`
 
 ### this may help
 
