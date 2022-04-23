@@ -12,17 +12,14 @@
 
 ## after that
 
--     change background color from `styled\Global.styled.ts`
-      `
-          body{
-                font-family: 'Commissioner', sans-serif;
-                font-weight: 400;
-                background-color: #000;
-                color: #FFFFFF;
-                position: relative;
-            }
+- change background color from `styled\Global.styled.ts`
 
-  `
+  ```
+  body{
+    background-color: #000;
+    color: #FFFFFF;
+  }
+  ```
 
   Add your theme color here `styled\Theme.ts`
 
