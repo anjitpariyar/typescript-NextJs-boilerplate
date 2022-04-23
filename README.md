@@ -1,4 +1,34 @@
-### ts next js starter
+## ts next js starter
+
+### How to start
+
+- clone this repo
+
+  install all dep `yarn `
+
+  run it `yarn dev`
+
+-
+
+## after that
+
+-     change background color from `styled\Global.styled.ts`
+      `
+          body{
+                font-family: 'Commissioner', sans-serif;
+                font-weight: 400;
+                background-color: #000;
+                color: #FFFFFF;
+                position: relative;
+            }
+
+  `
+
+  Add your theme color here `styled\Theme.ts`
+
+-
+
+### this may help
 
 coding style
 
